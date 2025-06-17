@@ -35,7 +35,7 @@ const Header = () => {
             rel="noopener noreferrer"
             className="social-button"
           >
-            <FaInstagram />
+            <FaInstagram  />
           </a>
           <a
             href="https://t.me/EgorMazyrko"
