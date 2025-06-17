@@ -49,7 +49,8 @@ const Header = () => {
         </div>
         <div className="hero__image">
           
-        <img src="/img/profile.jpg" alt="profile" />
+       <img src={`${process.env.PUBLIC_URL}/img/profile.jpg`} alt="profile" />
+
         </div>
       </div>
       
