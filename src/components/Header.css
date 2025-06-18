@@ -4,6 +4,9 @@ body {
   background-color: #f0f0f0;
   transition: background-color 1s ease;
 }
+html, body {
+  overflow-x: hidden;
+}
 
 .header {
   width: 100%;
